@@ -1,7 +1,7 @@
 # Automate_The_Boring_Stuff
 
 ### Chapter 3
-* [Collatz](CH3/collatz.py)
+* [Collatz](AutomateTheBoringStuff/CH3/collatz.py)
 
 ### Chapter 4 
 
