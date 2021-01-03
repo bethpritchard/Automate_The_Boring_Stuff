@@ -1,4 +1,5 @@
-# Automate_The_Boring_Stuff
+# Automate The Boring Stuff
+Solutions to end of chapter projects
 
 ### Chapter 3
 * [Collatz](AutomateTheBoringStuff/CH3/collatz.py)
