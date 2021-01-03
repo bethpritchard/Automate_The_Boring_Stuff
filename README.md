@@ -1,5 +1,5 @@
 # Automate The Boring Stuff
-Solutions to end of chapter projects
+Solutions to end of chapter projects for [Automate The Boring Stuff](https://automatetheboringstuff.com/)
 
 ### Chapter 3
 * [Collatz](AutomateTheBoringStuff/CH3/collatz_v1.py)
