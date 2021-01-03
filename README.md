@@ -2,7 +2,7 @@
 Solutions to end of chapter projects
 
 ### Chapter 3
-* [Collatz](AutomateTheBoringStuff/CH3/collatz.py)
+* [Collatz](AutomateTheBoringStuff/CH3/collatz_v1.py)
 
 ### Chapter 4 
 * [Character Picture Grid](AutomateTheBoringStuff/CH4/character_picture_grid.py)
