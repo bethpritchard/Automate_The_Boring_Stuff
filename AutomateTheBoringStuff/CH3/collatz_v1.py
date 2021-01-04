@@ -15,5 +15,4 @@ def collatz():
         except ValueError:
             print('Please enter an integer')
             continue
-collatz()
 
