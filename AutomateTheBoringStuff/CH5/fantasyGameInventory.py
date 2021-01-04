@@ -2,7 +2,8 @@
 Fantasy Game Inventory
 """
 
-#stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12}
+
+# stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12}
 
 def displayInventory(inventory):
     """Prints contents and total number of items"""
@@ -18,7 +19,6 @@ def displayInventory(inventory):
 Dictionary to list 
 """
 
-dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby']
 
 def addToInventory(inventory, addedItems):
     """ Adds items to dictionary """
@@ -27,6 +27,7 @@ def addToInventory(inventory, addedItems):
         inventory.setdefault(item, 0)
         inventory[item] += 1
     return inventory
+
 
 inv = {'gold coin': 42, 'rope': 1}
 dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby']
