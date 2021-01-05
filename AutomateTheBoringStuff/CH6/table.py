@@ -10,9 +10,6 @@ def printTable(data):
 
     print(colWidths)
 
-
-
-
 tableData = [['apples', 'oranges', 'cherries', 'banana'],
                  ['Alice', 'Bob', 'Carol', 'David'],
                  ['dogs', 'cats', 'moose', 'goose']]
