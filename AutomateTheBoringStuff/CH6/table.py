@@ -1,9 +1,13 @@
 def printTable(data):
     colWidths = [0] *len(data)
     for i in range(len(data)):
-        col = data[i]
         for j in range(len(data[i])):
-            colWidths = max(len(data[i]))
+            maxlength = len(data[i][j])
+            print(data[i][j])
+            print(len(data[i][j]))
+        #maxlength = max(len(data[i]))
+        #print(max)
+
     print(colWidths)
 
 
