@@ -1,0 +1,38 @@
+Index: ScottLogicChallenge/lotr_bot.py
+===================================================================
+diff --git a/ScottLogicChallenge/lotr_bot.py b/ScottLogicChallenge/lotr_bot.py
+deleted file mode 100644
+--- a/ScottLogicChallenge/lotr_bot.py	(revision 08b0a3b93c74dcef830470f8b8f5482ac79353fe)
++++ /dev/null	(revision 08b0a3b93c74dcef830470f8b8f5482ac79353fe)
+@@ -1,30 +0,0 @@
+-import requests
+-import random as rand
+-class BearerAuth(requests.auth.AuthBase):
+-    def __init__(self, token):
+-        self.token = token
+-    def __call__(self, r):
+-        r.headers["authorization"] = "Bearer " + self.token
+-        return r
+-
+-id = rand.randint(0, 932)
+-# def random_char():
+-
+-    # url = 'https://the-one-api.dev/v2/character'
+-    # response = requests.get(url, auth=BearerAuth('ZpzA0fvLIiWS9yXLCyO1'))
+-    # if response.status_code == 200:
+-    #     lotr_dict = response.json()
+-    #     char_dict = lotr_dict['docs'][id]
+-    #     return{'name' : char_dict['name']}
+-
+-def lotr_bot(text):
+-    url = 'https://the-one-api.dev/v2/character'
+-    response = requests.get(url, auth=BearerAuth('ZpzA0fvLIiWS9yXLCyO1'))
+-    if response.status_code == 200:
+-        lotr_dict = response.json()
+-        char_dict = lotr_dict['docs'][id]
+-        print(lotr_dict['docs'])
+-    # name = char_dict['name']
+-    # print(name)
+-
+-lotr_bot('okay')
+\ No newline at end of file
