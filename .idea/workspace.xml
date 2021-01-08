@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e00de301-6718-4cbe-ad7b-84d59a41893f" name="Default Changelist" comment="added list joiner" />
+    <list default="true" id="9104f6c8-7c16-4968-afe1-29ceed33a0df" name="Default Changelist" comment="changed name to dateDetection" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ChangesViewManager">
-    <option name="groupingKeys">
-      <option value="repository" />
-    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,46 +17,58 @@
       </list>
     </option>
   </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/master" />
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cfg" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1lKpwEo5wrMKsYmKGh55M7WZjyh" />
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/bethpritchard/Automate_The_Boring_Stuff" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mWpca1Y6ZuceE2wwDdt2BIkAeT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesTree.GroupingKeys" value="repository" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codingTests" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bethany Pritchard\PycharmProjects\AutomateTheBoringStuff\CH6" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bethany Pritchard\PycharmProjects\codingTests" />
+      <recent name="C:\Users\Bethany Pritchard\PycharmProjects\AutomateTheBoringStuff\CH7 " />
       <recent name="C:\Users\Bethany Pritchard\PycharmProjects\AutomateTheBoringStuff" />
-      <recent name="C:\Users\Bethany Pritchard\PycharmProjects\AutomateTheBoringStuff\CH3_Functions" />
-      <recent name="C:\Users\Bethany Pritchard\PycharmProjects\AutomateTheBoringStuff\CH5_Directories" />
+      <recent name="C:\Users\Bethany Pritchard\PycharmProjects\AutomateTheBoringStuff\CH4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.comma_code">
-    <configuration name="collatz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AutomateTheBoringStuff" />
+  <component name="RunManager" selected="Python.codility">
+    <configuration name="checkPalindrome" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="codingTests" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutomateTheBoringStuff/CH3_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../codingTests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutomateTheBoringStuff/CH3_Functions/collatz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../codingTests/checkPalindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,19 +77,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comma_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AutomateTheBoringStuff" />
+    <configuration name="codility" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codingTests" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutomateTheBoringStuff/CH4_Lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../codingTests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutomateTheBoringStuff/CH4_Lists/comma_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../codingTests/codility.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="magic8ball2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dateDetection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomateTheBoringStuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutomateTheBoringStuff/CH4_Lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CH7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutomateTheBoringStuff/CH4_Lists/magic8ball2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Bethany Pritchard\PycharmProjects\AutomateTheBoringStuff\CH7\dateDetection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="playlist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="isPhoneNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AutomateTheBoringStuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutomateTheBoringStuff/CH5_Directories" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CH7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutomateTheBoringStuff/CH5_Directories/playlist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CH7/isPhoneNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zigzag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="picnicTable" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AutomateTheBoringStuff" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +148,116 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutomateTheBoringStuff/CH3_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CH6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutomateTheBoringStuff/CH3_Functions/zigzag.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CH6/picnicTable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="roots" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="codingTests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../codingTests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../codingTests/roots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slicingPractice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutomateTheBoringStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CH6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CH6/slicingPractice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutomateTheBoringStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CH6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CH6/table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="twosum" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="codingTests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../codingTests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../codingTests/twosum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="validateInput" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AutomateTheBoringStuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CH6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CH6/validateInput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,38 +268,185 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.comma_code" />
-        <item itemvalue="Python.magic8ball2" />
-        <item itemvalue="Python.collatz" />
-        <item itemvalue="Python.zigzag" />
-        <item itemvalue="Python.playlist" />
+        <item itemvalue="Python.codility" />
+        <item itemvalue="Python.dateDetection" />
+        <item itemvalue="Python.isPhoneNumber" />
+        <item itemvalue="Python.table" />
+        <item itemvalue="Python.slicingPractice" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e00de301-6718-4cbe-ad7b-84d59a41893f" name="Default Changelist" comment="" />
-      <created>1607355875139</created>
+      <changelist id="9104f6c8-7c16-4968-afe1-29ceed33a0df" name="Default Changelist" comment="" />
+      <created>1609619281494</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607355875139</updated>
+      <updated>1609619281494</updated>
     </task>
-    <task id="LOCAL-00001" summary="test">
-      <created>1609606481199</created>
+    <task id="LOCAL-00001" summary="collatz code">
+      <created>1609619636017</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1609606481200</updated>
+      <updated>1609619636017</updated>
     </task>
-    <task id="LOCAL-00002" summary="added list joiner">
-      <created>1609617200228</created>
+    <task id="LOCAL-00002" summary="list joiner code">
+      <created>1609619788146</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1609617200229</updated>
+      <updated>1609619788146</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="coin flip">
+      <created>1609624685353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609624685353</updated>
+    </task>
+    <task id="LOCAL-00004" summary="coin flip">
+      <created>1609625204106</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609625204106</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed location">
+      <created>1609626360893</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609626360893</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first code">
+      <created>1609699896394</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609699896394</updated>
+    </task>
+    <task id="LOCAL-00007" summary="change name">
+      <created>1609704919778</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609704919778</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change name">
+      <created>1609704940242</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609704940242</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tested return vs print">
+      <created>1609752581936</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609752581936</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated code">
+      <created>1609795399963</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609795399963</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added addToInventory function">
+      <created>1609796431254</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609796431254</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changed formatting">
+      <created>1609796506184</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609796506184</updated>
+    </task>
+    <task id="LOCAL-00013" summary="created file">
+      <created>1609873254993</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609873254993</updated>
+    </task>
+    <task id="LOCAL-00014" summary="created file">
+      <created>1609873360417</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609873360417</updated>
+    </task>
+    <task id="LOCAL-00015" summary="printTable">
+      <created>1609875882695</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609875882695</updated>
+    </task>
+    <task id="LOCAL-00016" summary="printTable">
+      <created>1609876631693</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609876631693</updated>
+    </task>
+    <task id="LOCAL-00017" summary="printTable">
+      <created>1609876737862</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609876737862</updated>
+    </task>
+    <task id="LOCAL-00018" summary="printTable">
+      <created>1609877043214</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1609877043214</updated>
+    </task>
+    <task id="LOCAL-00019" summary="printTable">
+      <created>1609877061822</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1609877061822</updated>
+    </task>
+    <task id="LOCAL-00020" summary="printTable">
+      <created>1609936722415</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1609936722415</updated>
+    </task>
+    <task id="LOCAL-00021" summary="dateDetection">
+      <created>1610053154375</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1610053154375</updated>
+    </task>
+    <task id="LOCAL-00022" summary="changed name to dateDetection">
+      <created>1610053180344</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1610053180344</updated>
+    </task>
+    <task id="LOCAL-00023" summary="changed name to dateDetection">
+      <created>1610053471308</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1610053471308</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +465,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="secondmethod" />
                       </list>
                     </value>
                   </entry>
@@ -217,9 +479,20 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
-    <MESSAGE value="basic starting code" />
-    <MESSAGE value="added list joiner" />
-    <option name="LAST_COMMIT_MESSAGE" value="added list joiner" />
+    <MESSAGE value="collatz code" />
+    <MESSAGE value="list joiner code" />
+    <MESSAGE value="coin flip" />
+    <MESSAGE value="changed location" />
+    <MESSAGE value="first code" />
+    <MESSAGE value="change name" />
+    <MESSAGE value="tested return vs print" />
+    <MESSAGE value="updated code" />
+    <MESSAGE value="added addToInventory function" />
+    <MESSAGE value="changed formatting" />
+    <MESSAGE value="created file" />
+    <MESSAGE value="printTable" />
+    <MESSAGE value="dateDetection" />
+    <MESSAGE value="changed name to dateDetection" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed name to dateDetection" />
   </component>
 </project>
