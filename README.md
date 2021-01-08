@@ -12,3 +12,12 @@ Solutions to end of chapter projects for [Automate The Boring Stuff](https://aut
 
 ### Chapter 5
 * [Chess Validator](AutomateTheBoringStuff/CH5/ChessValidator.py)
+* [Birthdays](AutomateTheBoringStuff/CH5/birthdays.py)
+* [Fantasty game inventory](AutomateTheBoringStuff/CH5/fantasyGameInventory.py)
+
+
+### Chapter 6 
+* [Print table](AutomateTheBoringStuff/CH6/table.py)
+
+### Chapter 7
+* [Date Validator](AutomateTheBoringStuff/CH7/dateDetection.py)
